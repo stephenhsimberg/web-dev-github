@@ -1,9 +1,5 @@
 Just some text.
 
-<<<<<<< HEAD
 Some more text.
 
-CHanges to be staged
-=======
-Some more text.
->>>>>>> delete
+Changes to be staged
